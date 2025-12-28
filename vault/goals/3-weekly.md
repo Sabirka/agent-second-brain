@@ -1,7 +1,7 @@
 ---
 type: weekly
-week: YYYY-WWW
-updated: YYYY-MM-DD
+week: 2026-W01
+updated: 2025-12-28
 ---
 
 # Weekly Focus
@@ -9,17 +9,15 @@ updated: YYYY-MM-DD
 ## ONE Big Thing
 
 > **If I accomplish nothing else, I will:**
-> [Single most important outcome for this week]
-
-<!-- This is read by the bot during daily processing -->
+> Запущу «Агента Второй Мозг» в рабочем режиме и пройду с ним полный недельный цикл (планирование → ежедневное использование → итоговый обзор), зафиксировав выводы для более осознанной формулировки следующей недели.
 
 ---
 
 ## Week at a Glance
 
-**Week:** [X] of 52
-**Energy Level:** [High/Medium/Low]
-**Available Hours:** [X] hours focused work
+**Week:** 1 of 52  
+**Energy Level:** Medium (праздничная неделя)  
+**Available Hours:** 6–10 часов фокусной работы  
 
 ---
 
@@ -27,19 +25,19 @@ updated: YYYY-MM-DD
 
 ### Must Do (Non-negotiable)
 
-- [ ] Task 1 — Связь: [[1-yearly-2025#Goal]]
-- [ ] Task 2
-- [ ] Task 3
+- [ ] Заполнить Weekly-документ в начале недели (ONE Big Thing, приоритеты)
+- [ ] Использовать агента минимум в 3 разные дни
+- [ ] Заполнить End of Week Review полностью
 
 ### Should Do (Important)
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Скорректировать формулировки задач после первого дня использования
+- [ ] Отметить, какие секции реально используются, а какие — нет
 
 ### Could Do (If time permits)
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Упростить шаблон под себя (удалить лишнее, пометить необязательное)
+- [ ] Зафиксировать вопросы к формату агента
 
 ---
 
@@ -47,33 +45,33 @@ updated: YYYY-MM-DD
 
 ### Monday
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Первичное заполнение Weekly
+- [ ] Краткое определение ожиданий от агента
 
 ### Tuesday
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Проверка Daily Plan (минимум 1 задача)
+- [ ] Фиксация ощущений: удобно / неудобно / мешает
 
 ### Wednesday
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Повторное использование агента
+- [ ] Коррекция формулировок задач
 
 ### Thursday
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Короткая сессия планирования или рефлексии
+- [ ] Подготовка мыслей к недельному обзору
 
 ### Friday
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] End of Week Review
+- [ ] Формулировка ONE Big Thing для следующей недели (черновик)
 
 ### Weekend
 
 - [ ] Rest / Family time
-- [ ] Optional task
+- [ ] Без обязательных задач
 
 ---
 
@@ -81,8 +79,7 @@ updated: YYYY-MM-DD
 
 | Day | Time | Event | Prep |
 |-----|------|-------|------|
-| Mon | | | |
-| Tue | | | |
+| — | — | — | — |
 
 ---
 
@@ -90,9 +87,8 @@ updated: YYYY-MM-DD
 
 | Habit | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |-------|-----|-----|-----|-----|-----|-----|-----|
-| [Habit 1] | | | | | | | |
-| [Habit 2] | | | | | | | |
-| [Habit 3] | | | | | | | |
+| Использование агента | | | | | | | |
+| Короткая рефлексия | | | | | | | |
 
 ---
 
@@ -100,19 +96,19 @@ updated: YYYY-MM-DD
 
 ### What Worked
 
--
+- 
 
 ### What Didn't Work
 
--
+- 
 
 ### Lessons Learned
 
--
+- 
 
 ### Next Week Focus
 
->
+> Сформулировать ONE Big Thing, уже опираясь на опыт использования агента.
 
 ---
 
@@ -120,8 +116,8 @@ updated: YYYY-MM-DD
 
 - [[2-monthly]] - Monthly priorities
 - [[1-yearly-2025]] - Yearly goals
-- Previous: [[3-weekly-YYYY-WXX]]
+- Previous: —
 
 ---
 
-*Week Started: YYYY-MM-DD*
+*Week Started: 2025-12-29*

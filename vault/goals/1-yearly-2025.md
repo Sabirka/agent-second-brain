@@ -1,76 +1,86 @@
 ---
 type: yearly
 period: 2025
-updated: YYYY-MM-DD
+updated: 2025-12-28
 ---
 
 # Goals 2025
 
 ## Annual Theme
 
-<!-- One word or phrase that defines this year -->
-<!-- Example: "Foundation", "Growth", "Balance" -->
+**Углубление экспертизы**
 
 ---
 
 ## Career & Business
 
-### Goal 1: [Your Goal]
-<!-- What do you want to achieve professionally? -->
+### Goal 1: Уверенная эксплуатация Ansible для развёртывания production-подобной инфраструктуры
+
+**Формулировка цели:**  
+К концу 2025 года у меня есть публичный Ansible-репозиторий, разворачивающий полный контур окружения (base → app → monitoring) для кластера ≥3 нод, включая PostgreSQL как stateful-сервис с продвинутой эксплуатацией.
 
 **Success Metrics:**
-- [ ] Metric 1
-- [ ] Metric 2
+- [ ] Ansible-код идемпотентен и воспроизводим на чистых хостах  
+- [ ] PostgreSQL управляется Ansible (бэкапы + PITR)  
+- [ ] Есть README с инструкциями и сценариями проверки отказов
 
 **Quarterly Milestones:**
-- Q1: [milestone]
-- Q2: [milestone]
-- Q3: [milestone]
-- Q4: [milestone]
+- Q1: оформлена структура репозитория + inventory для dev/stage/prod  
+- Q2: базовый контур (base) разворачивается на всех нодах кластера  
+- Q3: PostgreSQL с бэкапами + PITR, управляемыми Ansible  
+- Q4: репозиторий содержит инструкции воспроизведения и проверки отказов
 
 ---
 
 ## Health & Energy
 
-### Goal 1: [Your Goal]
-<!-- What health habits do you want to build? -->
+### Goal 1: Снижение эмоционального истощения после рабочих обсуждений
+
+**Фокус:**  
+Интерпретация действий других и снижение когнитивного напряжения в общении.
 
 **Success Metrics:**
-- [ ] Metric 1
-- [ ] Metric 2
+- [ ] уменьшение эмоционального истощения после рабочих обсуждений  
+- [ ] не более 1 случая, требующего длительного восстановления, за наблюдаемый период
+
+**Метод проверки:**  
+Фиксация количества случаев длительного восстановления после значимых обсуждений.
 
 ---
 
 ## Relationships
 
-### Goal 1: [Your Goal]
-<!-- How do you want to improve your relationships? -->
+### Goal 1: Поддержание регулярных живых встреч и обсуждений
 
 **Success Metrics:**
-- [ ] Metric 1
-- [ ] Metric 2
+- [ ] стабильный ритм встреч с одним и тем же кругом людей  
+- [ ] не реже 1 встречи в 6 недель без разрывов более 2 месяцев
+
+**Метод проверки:**  
+Календарь или журнал встреч с повторяющимся составом участников.
 
 ---
 
 ## Personal Growth
 
-### Goal 1: [Your Goal]
-<!-- What skills or habits do you want to develop? -->
+### Goal 1: Системное чтение технической документации на английском
+
+**Формулировка цели:**  
+В 2025 году я способен пересказать и применить без перевода не менее 6 сложных разделов технической документации на английском, каждый с практическим применением в коде.
 
 **Success Metrics:**
-- [ ] Metric 1
-- [ ] Metric 2
+- [ ] ≥6 сложных разделов документации разобраны  
+- [ ] каждый раздел применён в реальном коде  
+- [ ] чтение инициируется практической задачей
+
+**Метод проверки:**  
+Связка: ссылка на раздел → краткий конспект → коммиты/конфигурации.
 
 ---
 
 ## Financial
 
-### Goal 1: [Your Goal]
-<!-- What financial milestones do you want to reach? -->
-
-**Success Metrics:**
-- [ ] Metric 1
-- [ ] Metric 2
+*Осознанно не включено в план 2025 года.*
 
 ---
 
@@ -78,11 +88,10 @@ updated: YYYY-MM-DD
 
 | Area | Goal | Progress | Status |
 |------|------|----------|--------|
-| Career | [goal] | 0% | --- |
-| Health | [goal] | 0% | --- |
-| Relationships | [goal] | 0% | --- |
-| Growth | [goal] | 0% | --- |
-| Financial | [goal] | 0% | --- |
+| Career | Ansible + PostgreSQL | 0% | --- |
+| Health | Эмоциональная энергия | 0% | --- |
+| Relationships | Регулярные встречи | 0% | --- |
+| Growth | Tech English | 0% | --- |
 
 ---
 
@@ -98,9 +107,9 @@ updated: YYYY-MM-DD
 
 ## Links
 
-- [[0-vision-3y]] - 3-year vision
-- [[2-monthly]] - Current month focus
-- [[3-weekly]] - This week's plan
+- [[0-vision-3y]] – 3-year vision  
+- [[2-monthly]] – Monthly focus (separate document)  
+- [[3-weekly]] – Weekly plan  
 
 ---
 

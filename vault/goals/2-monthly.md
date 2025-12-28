@@ -1,59 +1,43 @@
 ---
 type: monthly
-period: YYYY-MM
-updated: YYYY-MM-DD
+period: 2026-01
+updated: 2025-12-28
 ---
 
 # Monthly Focus
 
 ## Top 3 Priorities
 
-### Priority 1: [Your Top Priority]
+### Priority 1: Минимальный стенд для сервиса
 <!-- What MUST happen this month? -->
 
-**Why it matters:** [connection to yearly goal]
+**Why it matters:**  
+Прямой вклад в годовую цель: наличие воспроизводимого рабочего контура для обучения, проверки решений и дальнейшего наращивания сложности.
 
 **Key Actions:**
-- [ ] Action 1
-- [ ] Action 2
-- [ ] Action 3
+- [ ] Подготовить среду выполнения
+- [ ] Настроить механизм тестирования
+- [ ] Определить и подключить источник конфигурации
 
-**Definition of Done:** [clear outcome]
+**Definition of Done:**  
+С нуля разворачивается стенд, сервис запускается и тесты выполняются успешно без ручных донастроек.
 
 ---
 
-### Priority 2: [Second Priority]
-
-**Why it matters:** [connection to yearly goal]
-
-**Key Actions:**
-- [ ] Action 1
-- [ ] Action 2
-- [ ] Action 3
-
-**Definition of Done:** [clear outcome]
+### Priority 2: intentionally empty
 
 ---
 
-### Priority 3: [Third Priority]
-
-**Why it matters:** [connection to yearly goal]
-
-**Key Actions:**
-- [ ] Action 1
-- [ ] Action 2
-- [ ] Action 3
-
-**Definition of Done:** [clear outcome]
+### Priority 3: intentionally empty
 
 ---
 
 ## NOT Doing This Month
 
 <!-- What are you consciously saying NO to? -->
--
--
--
+- расширение стенда сверх минимума
+- оптимизация и рефакторинг
+- автоматизация, не требуемая для DoD
 
 ---
 

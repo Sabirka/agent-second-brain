@@ -2,15 +2,14 @@
 type: vision
 horizon: 3-years
 period: 2025-2027
-updated: YYYY-MM-DD
+updated: 2025-12-28
 ---
 
 # Vision 2025-2027
 
 ## Life Mission
 
-<!-- Your life direction in one sentence -->
-<!-- Example: "Build meaningful technology while maintaining balance across health, relationships, and personal growth." -->
+Осознанно развиваться как инженер и человек, сохраняя профессиональную востребованность, здоровье, устойчивые отношения и внутреннее спокойствие.
 
 ---
 
@@ -18,91 +17,26 @@ updated: YYYY-MM-DD
 
 ### Career & Business
 
-**3-Year Vision:**
-<!-- Where do you want to be professionally in 3 years? -->
+**3-Year Vision:**  
+Твёрдый middle DevOps в крупной продуктовой компании, работающей в сфере разработки ПО с применением ИИ, в роли общеплатформенного DevOps. Самостоятельно принимаю архитектурные решения, обеспечиваю изоляцию данных и масштабирование вычислений, несу ответственность за инциденты, безопасность и взаимодействие с ИБ.
 
 **Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
+- [x] Спроектировал и ввёл в эксплуатацию инфраструктуру у заказчика; система работает в продакшене ≥12 месяцев без критических инцидентов.
+- [ ] Решения задокументированы, приняты как стандарт и используются в других проектах.
+- [ ] Получен оффер / закреплён middle-грейд / официально расширена зона ответственности.
 
 ---
 
 ### Health & Energy
 
-**3-Year Vision:**
-<!-- What does your ideal health look like? -->
+**3-Year Vision:**  
+Ежедневно пробегаю 5 км, подтягиваюсь 10 раз, отсутствуют хронические заболевания, сохраняю стабильный уровень энергии.
 
 **Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
+- [x] Выполнена операция по замене хрусталиков, хожу без очков.
+- [ ] Стабильная регулярность бега, отсутствие простудных заболеваний.
+- [ ] Отсутствие больничных и медицинских ограничений ≥12 месяцев при сохранении регулярной физической нагрузки.
 
 ---
 
-### Relationships & Family
-
-**3-Year Vision:**
-<!-- How do you want your relationships to evolve? -->
-
-**Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
-
----
-
-### Personal Growth
-
-**3-Year Vision:**
-<!-- What skills, habits, or mindset changes do you want? -->
-
-**Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
-
----
-
-### Financial
-
-**3-Year Vision:**
-<!-- What does financial security look like for you? -->
-
-**Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
-
----
-
-### Creativity & Joy
-
-**3-Year Vision:**
-<!-- What brings you joy? How will you nurture it? -->
-
-**Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
-
----
-
-## Quarterly Review Questions
-
-1. Which goals still align with my values?
-2. What has changed that affects these goals?
-3. What am I willing to sacrifice to achieve these?
-4. Who can help me?
-
----
-
-## Links
-
-- [[1-yearly-2025]] - This year's goals
-- [[2-monthly]] - Current month focus
-- [[3-weekly]] - This week's plan
-
----
-
-*Next Review: Q1 2025*
+### Relationships & Fa

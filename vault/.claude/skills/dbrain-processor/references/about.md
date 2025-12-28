@@ -19,7 +19,7 @@
 
 ## Core Identity
 
-**[Your Name], [Age]** — [Your Role/Position]
+**Сергей, 53** — [Your Role/Position]
 
 - [Your company/occupation]
 - [Key clients or projects]
